@@ -107,7 +107,8 @@ handleInput(a)
       if(this.y<130)
         { 
             alert('congratulation');
-            //this.y=50;
+            this.x=200;
+            this.y=290;
            
         }
       
