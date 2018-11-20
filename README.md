@@ -12,3 +12,7 @@ The player can not get out of the screen
 # list of code dependencies
 ctx.drawImage() method. This method takes three parameters: an image, an x-coordinate, and a y-coordinate
 this mehod to draw the image
+## Getting started
+1. Download the project [here](https://github.com/sara-hakeem/arcade-game)
+2. Open `index.html` file
+3. Play the game!
