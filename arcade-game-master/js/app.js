@@ -88,7 +88,7 @@ update ()
 for(var i=0;i<allEnemies.length;i++)
 {
    
-    if(Math.abs(player.x-(allEnemies[i].x))<30&&player.y==allEnemies[i].y)//اطرح المسافه بينهم واخد المقياس واشوف لو ااقل من 30 
+    if(Math.abs(this.x-(allEnemies[i].x))<30&&this.y==allEnemies[i].y)//اطرح المسافه بينهم واخد المقياس واشوف لو ااقل من 30 
      {  this.x=200;
         this.y=290;
     }
