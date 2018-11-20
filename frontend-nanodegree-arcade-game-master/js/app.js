@@ -108,7 +108,7 @@ handleInput(a)
         { 
             alert('congratulation');
             this.x=200;
-            this.y=290;
+            this.y=370;
            
         }
       
