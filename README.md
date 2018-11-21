@@ -2,6 +2,9 @@
 # Table of Contents
 game description
 list of code dependencies
+Getting started
+how to play the game
+
 
 
 # game description
@@ -16,3 +19,7 @@ this mehod to draw the image
 1. Download the project [here](https://github.com/sara-hakeem/arcade-game)
 2. Open `index.html` file
 3. Play the game!
+
+## how to play the game
+( use arrow keys to move the player to avoid the enemies and reach the water)
+
